@@ -1,5 +1,5 @@
 {
-   "type": "SensorMonoxido",
+   "type": "esp32monoxido",
    "version": "1.9",
    "url": "https://raw.githubusercontent.com/Proyectossole/Monoxido/main/fw.bin"
 }
